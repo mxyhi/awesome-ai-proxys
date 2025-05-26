@@ -2,7 +2,7 @@
 列出了市面上主流的GPT API 中转站，及其简单介绍，欢迎提issue添加或修改内容
 
 ## API中转站聚合
-https://airouter.mxyhi.com
+[https://airouter.mxyhi.com](https://airouter.mxyhi.com/?_channel=m_gitrepo_proxys)
 
 All in One的中转站聚合平台
 - 将M个中转站的API转发给N个用户
