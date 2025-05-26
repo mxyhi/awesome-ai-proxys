@@ -56,4 +56,4 @@ https://www.aiapipk.com
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mn-api/awesome-ai-proxy&type=Date)](https://star-history.com/#mn-api/awesome-ai-proxy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mxyhi/awesome-ai-proxys&type=Date)](https://star-history.com/#mxyhi/awesome-ai-proxys&Date)
